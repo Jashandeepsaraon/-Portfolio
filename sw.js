@@ -27,8 +27,8 @@ self.addEventListener("install", function(event) {
                     "./images/Instagram.png",
                     "./js/app.js",
                     "./style.css",
-                    "/",
-                    "/index.html"
+                    "./",
+                    "./index.html"
                 ]
             )
         })
